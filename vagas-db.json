@@ -1,0 +1,32 @@
+{
+  "vagas": [
+    {
+      "id": 5,
+      "nome": "vaga alterada",
+      "foto": "foto2.jpg",
+      "descricao": "Estagiário",
+      "salario": "200"
+    },
+    {
+      "id": 8,
+      "nome": "Desenvolvedor PLENO",
+      "foto": "foto8.jpg",
+      "descricao": "Liderar a equipe em busca de novas tecnologias no mercado",
+      "salario": 12000
+    },
+    {
+      "id": "9",
+      "nome": "Samuel Umbelino da Silva",
+      "foto": "foto4.jpg",
+      "descricao": "Estagiário",
+      "salario": "5300"
+    },
+    {
+      "id": "20",
+      "nome": "Samuel Umbelino da Silva",
+      "foto": "foto5.jpg",
+      "descricao": "Estagiário",
+      "salario": "800"
+    }
+  ]
+}
